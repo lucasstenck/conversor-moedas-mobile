@@ -5,7 +5,6 @@ Um app mobile moderno e elegante para converter moedas em tempo real.
 ## O que faz
 
 - Converte entre **150+ moedas** diferentes
-- Interface **dark mode** moderna e profissional
 - Busca rápida de moedas
 - Taxas atualizadas em tempo real
 - Design responsivo para Android e iOS
